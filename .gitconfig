@@ -6,10 +6,10 @@
 	eol = lf
 
 [user]
-	name = 
-	email = 
+	name = Diego Ledesma 
+	email = diego.ledesma@changepoint.com
 [github]
-	user = 
+	user = hyperd
 
 [alias]
 	who = shortlog -s
